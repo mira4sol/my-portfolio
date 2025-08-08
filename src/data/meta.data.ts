@@ -31,7 +31,7 @@ export const socialsData = [
   {
     title: 'Github',
     icon: GithubIcon,
-    url: 'https://github.com/Ahmad940'
+    url: 'https://github.com/mira4sol'
   },
   {
     title: 'LinkedIn',
@@ -41,6 +41,6 @@ export const socialsData = [
   {
     title: 'Twitter',
     icon: XIcon,
-    url: 'https://x.com/3x3pt10n'
+    url: 'https://x.com/4k_mira'
   }
 ]
