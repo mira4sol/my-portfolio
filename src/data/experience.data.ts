@@ -1,5 +1,25 @@
 export const experienceData = [
   {
+    organization: 'SuperteamNg',
+    role: 'Developers Relations',
+    duration: 'Aug 2024 - Present',
+    organization_link: 'https://x.com/SuperteamNg',
+    description:
+      "As a DevRel at Superteam, I actively engage with developers, guiding and onboarding them to build efficiently on the Solana blockchain. I encourage a supportive environment through hosting workshops, meetups, and classes, driving growth and innovation in the Solana ecosystem.",
+    links: [{ name: 'SuperteamNg', url: 'https://www.superteamng.fun/' }],
+    technologies: ['Rust', 'Typescript', 'Solana']
+  },
+  {
+    organization: 'Valingo',
+    role: 'Front-end Engineer',
+    duration: 'Feb 2024 - Dec 2024',
+    organization_link: 'https://www.linkedin.com/company/valingo/',
+    description:
+      "At Valingo, I contribute to the development of cutting-edge AI products focused on enhancing mock exam experiences such as IELTs and TOEFL. My role involves designing and implementing AI-driven solutions that provide users with interactive and personalized exam practice environments.",
+    links: [{ name: 'Valingo', url: 'https://www.valingo.com/' },{ name: 'IELTS', url: 'https://ielts.vtalkai.com/' }, { name: 'TOEFL', url: 'https://toefl.vtalkai.com/' }, { name: 'AI Speaking', url: 'https://speak.vtalkai.com/' }],
+    technologies: ['Nodejs', 'Javascript', 'Vue.js', 'Open AI', 'Claude']
+  },
+  {
     organization: 'Blare Technologies',
     role: 'Backend Engineer',
     duration: 'Dec 2023 - Feb 2024',
