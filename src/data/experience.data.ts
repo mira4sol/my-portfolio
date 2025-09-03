@@ -1,5 +1,15 @@
 export const experienceData = [
   {
+    organization: 'Zynta',
+    role: 'Fullstack Engineer',
+    duration: 'Aug 2025 - Present',
+    organization_link: 'https://x.com/ZyntaFinance',
+    description:
+      "At Zynta, a fintech platform designed to facilitate global trade, I contribute to the development and deployment of key features for leading fintech companies, digital asset platforms, and financial institutions worldwide. Our work helps clients streamline their operations and succeed in the ever-evolving global trade landscape.",
+    links: [{ name: 'zynta', url: 'https://zynta.com/' }],
+    technologies: ['Typescript', 'Solana', 'Base', 'Base', 'Stellar', 'Solana']
+  },
+  {
     organization: 'SuperteamNg',
     role: 'Developers Relations',
     duration: 'Aug 2024 - Present',
