@@ -16,7 +16,7 @@ export const projectsData = [
       'Zepto Mail',
       'Docker'
     ],
-    users_counts: 'in view',
+    users_counts: '1k+ users',
     url: 'https://hustlebetter.co',
     description:
       'HustleBetter is an e-commerce platform that brings service providers and clients together, providing visibility to service providers as well for clients to find trusted and genuine services online.'
