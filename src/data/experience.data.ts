@@ -6,7 +6,7 @@ export const experienceData = [
     organization_link: 'https://x.com/4k_mira',
     description: 'Contributing to the development of innovative financial and digital solutions. I focus on designing and building robust full stack systems that power seamless crypto and financial experiences, developing secure, scalable blockchain-integrated features across the frontend and backend, collaborating with cross-functional teams to deliver reliable and user-centric products, and contributing to the architecture of solutions that bridge traditional finance and decentralized technologies.',
     links: [
-      { name: 'Cap Wallet', url: 'https://x.com/4k_mira' }
+      { name: 'Cap Wallet', url: 'https://capwallet.app' }
     ],
     technologies: ['Nodejs', 'Typescript', 'Golang', 'Rust', 'Postgres', 'Redis', 'Docker', 'AWS']
   },
