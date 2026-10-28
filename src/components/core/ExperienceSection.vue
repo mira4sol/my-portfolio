@@ -100,7 +100,7 @@
         <a
           class="inline-flex items-baseline leading-tight hover:text-teal-300 focus-visible:text-teal-300 font-semibold text-slate-200 group/link text-base"
           target="_blank"
-          href="https://resume.io/r/p10XTc0JE"
+          href="https://canva.link/mrqk6q67e3wvcy1"
           rel="noreferrer noopener"
           aria-label="View Full Résumé (opens in a new tab)"
         >
