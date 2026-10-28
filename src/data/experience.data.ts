@@ -24,7 +24,7 @@ export const experienceData = [
   {
     organization: 'SuperteamNg',
     role: 'Developers Relations',
-    duration: 'Aug 2024 - Present',
+    duration: 'Aug 2024 - 2026',
     organization_link: 'https://x.com/SuperteamNg',
     description: 'As a DevRel at Superteam, I actively engage with developers, guiding and onboarding them to build efficiently on the Solana blockchain. I encourage a supportive environment through hosting workshops, meetups, and classes, driving growth and innovation in the Solana ecosystem.',
     links: [
