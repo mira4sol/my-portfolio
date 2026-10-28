@@ -1,5 +1,55 @@
 export const projectsData = [
   {
+    title: 'Zynta',
+    images: [
+      'https://media.canva.com/v2/image-resize/format:JPG/height:593/quality:92/uri:ifs%3A%2F%2FM%2F92c8c3cc-9389-4a5d-835b-08eac77d7c01/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAANPhbhz3QJHGSsd3Ac7DNecCiLOnzVB-0keQo2K1uqTK&exp=1793162563&osig=AAAAAAAAAAAAAAAAAAAAAD9te-W6kc08tGqEDJPPy4e6jzK9T8iBopq7Ineiubkd&signer=media-rpc&token=AAIAAU0AJDkyYzhjM2NjLTkzODktNGE1ZC04MzViLTA4ZWFjNzdkN2MwMQAAAAABoYDRTbhDJ2bxZZj49shoG2WrPF5NKzGClQLLkZOYmEcgSIdnDA&x-canva-quality=screen'
+    ],
+    users_counts: '',
+    url: 'https://zynta.com',
+    technologies: ['Postgres', 'Node', 'Sphere', 'JuicyWay', 'Redis', 'AWS'],
+    description: 'Zynta is a fintech platform designed to facilitate global trade, helping clients streamline their operations and succeed in the ever-evolving global trade landscape.'
+  },
+  {
+    title: 'Pump Science',
+    images: [
+      'https://media.canva.com/v2/image-resize/format:PNG/height:796/quality:100/uri:ifs%3A%2F%2FM%2F46727058-287c-408c-8e70-8becf3875bf0/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAA39rXSOUHAl6jAX2Z1oemlqUm7JKPB-AE573BIxGXyo&exp=1793159881&osig=AAAAAAAAAAAAAAAAAAAAAG5H7gBpnSnjLqovhFC4a7g05CI0Zb2H46FP00lcL99r&signer=media-rpc&token=AAIAAU0AJDQ2NzI3MDU4LTI4N2MtNDA4Yy04ZTcwLThiZWNmMzg3NWJmMAAAAAABoYCoYSgrpbv3lrGbRjiznYCwswSjc8C81aLgY2NdUVS_pxxfXQ&x-canva-quality=screen'
+    ],
+    users_counts: '',
+    url: 'https://pump.science',
+    technologies: ['Supabase', 'Typescript', 'Meteora'],
+    description: 'pump.science is a launchpad for deploying compounds and products built on meteora.'
+  },
+  {
+    title: 'Cellar',
+    images: [
+      'https://media.canva.com/v2/image-resize/format:PNG/height:1600/quality:100/uri:ifs%3A%2F%2FM%2F0c3e0bf9-a6b6-4bff-8a99-87b1f39db186/watermark:F/width:720?csig=AAAAAAAAAAAAAAAAAAAAAC-t6YTwwXRce1bMyaPXJxJoo-i0ZwX76Xm643StQHL8&exp=1793161949&osig=AAAAAAAAAAAAAAAAAAAAAHwwjYuK7sX8BnnTxeQg_mirR0RaEq26prslrWuvczGr&signer=media-rpc&token=AAIAAU0AJDBjM2UwYmY5LWE2YjYtNGJmZi04YTk5LTg3YjFmMzlkYjE4NgAAAAABoYDH70jNUzjdqlQv6o8j6bxSOFCyOY23OFW2_1pdAGZ7DXjzbA&x-canva-quality=screen_2x'
+    ],
+    users_counts: '',
+    url: 'https://cellar.so',
+    technologies: ['Postgres', 'Node', 'Privy', 'Helius', 'PumpFun', 'BirdEye'],
+    description: 'Cellar is a custodial socialfi wallet designed to bridge the socialfi gap in solana and connect the whole community.'
+  },
+  {
+    title: 'Jollofboard',
+    images: [
+      'https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2F8ce2f04d-2bb7-4c36-a71c-0041db3ddc23/watermark:F/width:661?csig=AAAAAAAAAAAAAAAAAAAAAOIz2wgbou12wDUN1T_spTumJ7_nfN-N7t-Jm9v0UoSK&exp=1793161386&osig=AAAAAAAAAAAAAAAAAAAAAOaoFmunZ-4BQYNZnStrtH2vCJ6Z44SYnfRUxTuDasCo&signer=media-rpc&token=AAIAAU0AJDhjZTJmMDRkLTJiYjctNGMzNi1hNzFjLTAwNDFkYjNkZGMyMwAAAAABoYC_WBAA5uywMrnmDOEQ9g61QKFtCjhQRAC17kM734fn6ndgvg&x-canva-quality=screen'
+    ],
+    users_counts: '',
+    url: 'https://jollofboard.fun',
+    technologies: ['Postgres', 'Node', 'Helius', 'Jupiter contracts aggregations', 'React'],
+    description: 'Jollofboard is a Jupiter competitive trading tool built for the Jupiter Nigeria community to bring the community closer and drive higher transactions on Jupiter.'
+  },
+  {
+    title: 'Flip The Market',
+    images: [
+      'https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2F54f3e941-c78c-41e1-b741-4d0357dc6b0d/watermark:F/width:603?csig=AAAAAAAAAAAAAAAAAAAAAA_44osYmG8Sub8bdgqo4sVT4ilLBE2x4HantrAEeNVG&exp=1793161625&osig=AAAAAAAAAAAAAAAAAAAAADdCgIgKA3LjOcA1IKluGEpI-PhFCtnmYR5rUx6Oz_ad&signer=media-rpc&token=AAIAAU0AJDU0ZjNlOTQxLWM3OGMtNDFlMS1iNzQxLTRkMDM1N2RjNmIwZAAAAAABoYDC_agsav32W44xAwzzU6b-WlBAJxU7RdAtG1mio0bJwLsFPg&x-canva-quality=screen'
+    ],
+    users_counts: '',
+    url: 'https://flipthe.market',
+    technologies: ['Postgres', 'Node', 'Web Scraping (Nasdaq Data)', 'Top Ledger', 'React'],
+    description: 'When will Solana flip Nasdaq? Flip the market is a website built to track when solana will flip Nasdaq powered by the Solana Foundation.'
+  },
+  {
     title: 'HustleBetter Server',
     images: ['/images/hustlebetter.png'],
     technologies: [
@@ -66,26 +116,5 @@ export const projectsData = [
     ],
     description:
       'Defcomm is a secured enterprise end to end encrypted communication solution created to make communication in organizations seamlessly easy as best as possible and secured, giving users more control of their chat.'
-  },
-  {
-    title: 'Traffic Offense Booking',
-    images: ['/images/VIO.jpeg', '/images/VIO ii.jpeg'],
-    users_counts: 'private',
-    url: '',
-    technologies: [
-      'Node',
-      'Nestjs',
-      'Socket.io',
-      'Next.js',
-      'Cloudinary',
-      'Paystack API',
-      'Paystack Terminal',
-      'Sinch',
-      'Postmark',
-      'AWS'
-    ],
-    description:
-      'A SaaS platform to digitalize Nigerian Vehicle Inspection Officers (VIO) migrating them off the manual system of booking road related offenses with paper, providing advance analtics an efficient payment system with paystack api and paystack terminal and enforcing data transparency and prevent financial leakages.'
-    // 'The Nigerian vehicle Inspection Officers (VIO) for a long while have been using a manual system to write records of those who violates road protocols, Enumerating this list can be a very tedious task for VIO as well as tracking of payements manually or with cash, and lack of transparency within money collection, Henceforth the need for digitization i was contracted and tasked to develop a real time system for management and payment and tracking of fines in realtime as well as enforcing financial transparency.'
   }
-]
+];
